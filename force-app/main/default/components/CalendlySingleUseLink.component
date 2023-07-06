@@ -1,0 +1,4 @@
+<apex:component access="global" controller="CalendlySingleUseLinkController">
+  <apex:attribute name="eventTypeUUID" description="Calendly Event Type UUID" type="String" />
+  {!link} 
+</apex:component>
